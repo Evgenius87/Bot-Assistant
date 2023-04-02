@@ -1,0 +1,2 @@
+[console_scripts]
+The_soft = assistant.Main_menu:main
